@@ -1,0 +1,4 @@
+Note this app was built with the following tool chain:
+
+Qt Creator 3.4.1 (opensource)
+Based on Qt 5.4.2 (Clang 6.0 (Apple), 64 bit)
